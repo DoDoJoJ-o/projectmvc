@@ -28,12 +28,12 @@
     <div class="bg-primary-light px-5 py-3 flex items-center justify-between gap-4">
 
       <!-- Home Icon -->
-      <button class="text-white hover:opacity-80 transition flex-shrink-0">
+      <a href="/templates/Event_home.php" class="text-white hover:opacity-80 transition flex-shrink-0">
         <svg xmlns="http://www.w3.org/2000/svg" class="w-9 h-9" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
           <path stroke-linecap="round" stroke-linejoin="round"
             d="M3 9.75L12 3l9 6.75V21a1 1 0 01-1 1H15v-5H9v5H4a1 1 0 01-1-1V9.75z" />
         </svg>
-      </button>
+      </a>
 
       <!-- Search Bar -->
       <div class="flex-1 max-w-md">
